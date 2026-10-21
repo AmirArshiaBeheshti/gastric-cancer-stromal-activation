@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "GC-SAP-TAM: analysis code for the stromal activation programme and C1QC+ macrophages in gastric cancer"
+authors:
+  - family-names: Beheshti
+    given-names: Amir Arshia
+    affiliation: "Ardabil University of Medical Sciences"
+    orcid: "https://orcid.org/0009-0009-1546-9286"
+  - family-names: Motevasseli
+    given-names: Meysam
+    affiliation: "Ardabil University of Medical Sciences"
+  - family-names: Safarzadeh
+    given-names: Elham
+    affiliation: "Ardabil University of Medical Sciences"
+    orcid: "https://orcid.org/0000-0001-6160-8923"
+license: MIT
+type: software
+version: "1.0.0"
+date-released: "2026-10-21"
